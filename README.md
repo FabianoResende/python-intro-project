@@ -1,34 +1,47 @@
-# 🚀 Meu Primeiro Projeto em Python
+# 🐍 Meu Primeiro Projeto em Python — Fundamentos, Git e Boas Práticas
 
-Este repositório marca o início da minha jornada em tecnologia, focado no domínio do ecossistema de desenvolvimento profissional.
+Este repositório marca o início da minha jornada no desenvolvimento de software, com foco em **Python**, **versionamento Git** e **organização profissional de projetos**.  
+Faz parte da minha evolução contínua rumo ao estágio de **Engenharia de IA Front‑end — FlyRank (Jul/2026)**.
+
+---
 
 ## 🎯 Objetivo do Projeto
-Praticar os pilares fundamentais da engenharia de software:
-- **Versionamento Semântico:** Uso estratégico de comandos Git e fluxo push/pull.
-- **Estruturação de Projetos:** Organização profissional de pastas e arquivos.
-- **Integração Contínua (CI):** Exploração inicial de automação com GitHub Actions.
+
+Este projeto foi criado para praticar:
+
+- Estruturação inicial de projetos Python  
+- Uso correto de Git e GitHub  
+- Criação de ambientes virtuais  
+- Organização de arquivos e pastas  
+- Primeiros scripts e automações simples  
+- Fluxo de commits, push e versionamento semântico  
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagem:** Python 3.10
-- **IDE:** PyCharm
-- **Versionamento:** Git & GitHub
+
+- **Python 3.10+**  
+- **Git & GitHub**  
+- **PyCharm / VS Code**  
+- **Ambiente virtual (venv)**  
+- **GitHub Actions (em evolução)**  
 
 ---
 
-## 📂 Estrutura do Projeto
-- `src/`: Contém os scripts principais em Python.
-- `requirements.txt`: Lista de dependências para garantir a reprodutibilidade.
-- `.github/workflows/`: (Em evolução) Automações para validação de código.
+## 📁 Estrutura do Projeto
 
----
+```bash
+python-intro-project/
+├── src/                 # Scripts principais em Python
+│   └── ...              # Funções e exercícios iniciais
+├── hello.txt            # Primeiro commit do repositório
+├── requirements.txt     # Dependências do projeto
+└── README.md            # Documentação
 
-## 🧠 Aprendizados Relevantes
-Como aluno de **Sistemas de Informação**, utilizei este projeto para consolidar:
-1. A importância de um código limpo e bem documentado.
-2. Resolução de conflitos em ambientes versionados.
-3. Configuração de ambientes virtuais para desenvolvimento Python.
+```
 
----
-*Este é um projeto vivo, refletindo meu progresso contínuo em Transição de Carreira para TI.*
+## 👨‍💻 Autor  
+**Fabiano Faria de Resende**  
+Estagiário de Engenharia de IA Front‑end — FlyRank (Jul/2026)  
+GitHub: https://github.com/FabianoResende  
+LinkedIn: https://www.linkedin.com/in/fabianofr/
