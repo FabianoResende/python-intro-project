@@ -1,7 +1,7 @@
 # 🐍 Meu Primeiro Projeto em Python — Fundamentos, Git e Boas Práticas
 
 Este repositório marca o início da minha jornada no desenvolvimento de software, com foco em **Python**, **versionamento Git** e **organização profissional de projetos**.  
-Faz parte da minha evolução contínua rumo ao estágio de **Engenharia de IA Front‑end — FlyRank (Jul/2026)**.
+Faz parte da minha evolução contínua rumo ao estágio de **Engenharia de IA — FlyRank**.
 
 ---
 
@@ -42,6 +42,6 @@ python-intro-project/
 
 ## 👨‍💻 Autor  
 **Fabiano Faria de Resende**  
-Estagiário de Engenharia de IA Front‑end — FlyRank (Jul/2026)  
+Estagiário de Engenharia de IA — FlyRank  
 GitHub: https://github.com/FabianoResende  
 LinkedIn: https://www.linkedin.com/in/fabianofr/
