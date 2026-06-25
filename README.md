@@ -14,7 +14,7 @@ Este projeto foi criado para praticar:
 - Criação de ambientes virtuais  
 - Organização de arquivos e pastas  
 - Primeiros scripts e automações simples  
-- Fluxo de commits, push e versionamento semântico  
+- Fluxo de commits e boas práticas de versionamento  
 
 ---
 
@@ -22,9 +22,8 @@ Este projeto foi criado para praticar:
 
 - **Python 3.10+**  
 - **Git & GitHub**  
-- **PyCharm / VS Code**  
+- **VS Code / PyCharm**  
 - **Ambiente virtual (venv)**  
-- **GitHub Actions (em evolução)**  
 
 ---
 
@@ -37,6 +36,7 @@ python-intro-project/
 ├── hello.txt            # Primeiro commit do repositório
 ├── requirements.txt     # Dependências do projeto
 └── README.md            # Documentação
+
 
 ```
 
